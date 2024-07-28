@@ -60,28 +60,28 @@ router.get('/', async (req, res) => {
 	
 				   let WASI_MD_TEXT = `
 *_QR Code Connected*
-*_Made With by Cod3Uchiha🤍_*
+*_Made With by BADBOI🤍_*
 ______________________________________
 ╔════◇
-║ FOR ALL COD3UCHIHA BOTS
+║ FOR ALL CHASE AND BADBOI BOTS
 ║ _Thanks for your support._
 ╚════════════════════════╝
 ╔═════◇
 ║  『••• ⬡𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽⬡ •••』
-║⬡ *Ytube:* _youtube.com/@Cod3Uchiha_
-║⬡ *Owner:* _https://wa.me/263785028126_
+║⬡ *owner:* _https://wa.me/2348140825959_
+║⬡ *Owner:* _https://wa.me/2347080541298_
 ║
 ║⬡MY bot Repos⬡
 ║
-║⬡ *TKM bot:* _https://github.com/Cod3Uchiha/TKM-bot_
-║⬡ *Manjiro-Sano-md:* _https://github.com/Cod3Uchiha/Manjiro-Sano-md_
+║⬡ *BADBOI bot:* _https://github.com/BADBOI-v1/BADBOI-v2_
+║⬡ *CHASE-md:* _https://github.com/BADBOI-v1/CHASE-MD_
 ║
 ║⬡Support channels⬡
 ║
-║⬡ *COD3UCHIHA:* _https://whatsapp.com/channel/0029VaKjSra9WtC0kuJqvl0g_
-║⬡ *TKM inc:* _https://whatsapp.com/channel/0029VadFn9M545v25zjEWI3I_
+║⬡ *CHANNEL:* _https://whatsapp.com/channel/0029VadCyFZGufJ2YW4bG42x_
+║⬡ *GROUP:* _https://chat.whatsapp.com/LYOPu85NAVv4ymxOxCxRQY_
 ║
-║⬡ *©Copyright* _Takudzwa-Mlambo|Cod3Uchiha
+║⬡ *©Copyright* _CHASE-MD|BADBOI
 ╚══════════════════════════════════╝
 _____________________________________
 	
