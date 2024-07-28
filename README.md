@@ -14,13 +14,13 @@
 
 
 
-[`ℹ️Contact Owner`](https://wa.me/263785028126)
+[`ℹ️Contact Owner`](https://wa.me/2348140825959)
 
-[!FORK Cod3Uchiha]•https://github.com/Cod3Uchiha/SESSION-GENERATOR/fork
+[!FORK BADBOI HACKER]•https://github.com/Vickismartw123/SESSION-GENERATOR/fork
 
 Now Deploy
     <br>
-<a href='https://dashboard.heroku.com/new?template=https://github.com/Cod3Uchiha/SESSION-GENERATOR' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/>
+<a href='https://dashboard.heroku.com/new?template=https://github.com/Vickismartw123/SESSION-GENERATOR' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/>
 
 
  <a href="https://github.com/Cod3Uchiha"><img src="https://github.com/Cod3Uchiha.png" width="250" height="250" alt="Cod3Uchiha"/></a>
