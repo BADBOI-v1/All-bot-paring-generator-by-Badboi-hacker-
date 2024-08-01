@@ -74,7 +74,7 @@ ______________________________________
 ║⬡MY bot Repos⬡
 ║
 ║⬡ *BADBOI bot:* _https://github.com/BADBOI-v1/BADBOI-v2_
-║⬡ *CHASE-md:* _https://github.com/BADBOI-v1/Queen-BHAD-DC-MD_
+║⬡ *♡ƁӇƛƊ ƊƇᴸᴼᴿᴰ-md:* _https://github.com/BADBOI-v1/Queen-BHAD-DC-MD_
 ║
 ║⬡Support channels⬡
 ║
