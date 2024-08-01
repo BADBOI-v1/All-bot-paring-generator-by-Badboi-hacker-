@@ -61,25 +61,25 @@ router.get('/', async (req, res) => {
 *_Made With by BADBOI🤍_*
 ______________________________________
 ╔════◇
-║ FOR ALL CHASE AND BADBOI BOTS
+║ FOR ALL ♡ƁӇƛƊ ƊƇᴸᴼᴿᴰ AND BADBOI BOTS
 ║ _Thanks for your support._
 ╚════════════════════════╝
 ╔═════◇
 ║  『••• ⬡𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽⬡ •••』
 ║⬡ *owner:* _https://wa.me/2348140825959_
-║⬡ *Owner:* _https://wa.me/2347080541298_
+║⬡ *Owner:* _https://wa.me/2349077421147_
 ║
 ║⬡MY bot Repos⬡
 ║
 ║⬡ *BADBOI bot:* _https://github.com/BADBOI-v1/BADBOI-v2_
-║⬡ *CHASE-md:* _https://github.com/BADBOI-v1/CHASE-MD_
+║⬡ *♡ƁӇƛƊ ƊƇᴸᴼᴿᴰ-md:* _https://github.com/BADBOI-v1/Queen-BHAD-DC-MD_
 ║
 ║⬡Support channels⬡
 ║
 ║⬡ *CHANNEL:* _https://whatsapp.com/channel/0029VadCyFZGufJ2YW4bG42x_
 ║⬡ *GROUP:* _https://chat.whatsapp.com/LYOPu85NAVv4ymxOxCxRQY_
 ║
-║⬡ *©Copyright* _CHASE-MD|BADBOI
+║⬡ *©Copyright* _♡ƁӇƛƊ ƊƇᴸᴼᴿᴰ-MD|BADBOI
 ╚══════════════════════════════════╝
 _____________________________________
 
