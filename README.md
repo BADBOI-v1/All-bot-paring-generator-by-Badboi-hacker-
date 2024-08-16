@@ -23,5 +23,5 @@ Now Deploy
 <a href='https://dashboard.heroku.com/new?template=https://github.com/BADBOI-v1/All-bot-paring-generator-by-Badboi-hacker-' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/>
 
 
- <a href="https://github.com/Cod3Uchiha"><img src="https://github.com/Cod3Uchiha.png" width="250" height="250" alt="Cod3Uchiha"/></a>
+ <a href="https://github.com/BADBOI-v1"><img src="https://github.com/BADBOI-v1.png" width="250" height="250" alt="BADBOI"/></a>
 
